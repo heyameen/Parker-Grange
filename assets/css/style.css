@@ -3157,6 +3157,7 @@ textarea.form-control {
 
 .footer-top .footer__logo {
   margin-bottom: 27px;
+  max-width: 80px;
 }
 
 .footer-top p {
@@ -5333,7 +5334,8 @@ textarea.form-control {
 .clients .client img {
   display: inline-block;
   width: auto !important;
-  max-width: 100%;
+  max-width: 150px;
+  height: 80px;
 }
 
 .clients-3 .clients-row .client {
@@ -7671,4 +7673,8 @@ textarea.form-control {
 
 .project-padding{
   padding: 85px 50px;
+}
+
+.logo{
+  width: 80px;
 }
